@@ -3,3 +3,4 @@ target/
 dbt_packages/
 logs/
 config/.user.yml
+dbt_internal_packages/
